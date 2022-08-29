@@ -60,3 +60,4 @@ opm
 .operator_version
 snyk-monitor-catalog-source.yaml
 *.iml
+.dccache
